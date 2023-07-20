@@ -1,7 +1,7 @@
 """
 Створіть функцію, яка видаляє вказаний рядок з текстового файлу.
 """
-import txt as txt
+import txt
 
 
 def del_line(file: txt, index: int):
